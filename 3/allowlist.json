@@ -1,6 +1,6 @@
 {
     "allowlist": {
-        "0x0068355eADAA29ca23b571061b6e9D0b70BFE0d7": [
+        "0xcc051Df49EB2C4932310B34B90335a544A84BFf9": [
             1
         ],
         "0x00BEaf94438679e8159c76FB1E23092474fa945f": [
@@ -3280,6 +3280,9 @@
             1
         ],
         "0xF1DF03EE36720911eD62dBc333DC7C76438512AA": [
+            1
+        ],
+        "0xc2F4Ff1C7c3c5ee4cD8E6AA3C8fa8A0B3f9cfcDf": [
             1
         ]
     }
